@@ -7,25 +7,25 @@
         <location filename="src/search/airportsearch.cpp" line="150"/>
         <source>Distance
 %dist%</source>
-        <translation type="unfinished">Distanza
+        <translation>Distanza
 %dist%</translation>
     </message>
     <message>
         <location filename="src/search/airportsearch.cpp" line="151"/>
         <source>Heading
 °T</source>
-        <translation type="unfinished">Prua
+        <translation>Prua
 °T</translation>
     </message>
     <message>
         <location filename="src/search/airportsearch.cpp" line="152"/>
         <source>ICAO</source>
-        <translation type="unfinished">ICAO</translation>
+        <translation>ICAO</translation>
     </message>
     <message>
         <location filename="src/search/airportsearch.cpp" line="154"/>
         <source>Name</source>
-        <translation type="unfinished">Nome</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <location filename="src/search/airportsearch.cpp" line="156"/>
@@ -52,14 +52,14 @@ Area Code</source>
         <location filename="src/search/airportsearch.cpp" line="162"/>
         <source>Elevation
 %alt%</source>
-        <translation type="unfinished">Elevazione
+        <translation>Elevazione
 %alt%</translation>
     </message>
     <message>
         <location filename="src/search/airportsearch.cpp" line="164"/>
         <source>Mag.
 Decl.°</source>
-        <translation type="unfinished">Decl.
+        <translation>Decl.
 Mag.°</translation>
     </message>
     <message>
@@ -120,7 +120,7 @@ MHz</source>
     <message>
         <location filename="src/search/airportsearch.cpp" line="179"/>
         <source>3D</source>
-        <translation type="unfinished">3D</translation>
+        <translation>3D</translation>
     </message>
     <message>
         <location filename="src/search/airportsearch.cpp" line="181"/>
@@ -149,7 +149,7 @@ Runways</source>
     <message>
         <location filename="src/search/airportsearch.cpp" line="189"/>
         <source>ILS</source>
-        <translation type="unfinished">ILS</translation>
+        <translation>ILS</translation>
     </message>
     <message>
         <location filename="src/search/airportsearch.cpp" line="191"/>
@@ -286,7 +286,7 @@ Runway Surface</source>
     <message>
         <location filename="src/gui/airspacetoolbarhandler.cpp" line="238"/>
         <source>Enable all airspaces in this category</source>
-        <translation type="unfinished"></translation>
+        <translation>Abilita tutti gli spazi aerei in questa categoria</translation>
     </message>
     <message>
         <location filename="src/gui/airspacetoolbarhandler.cpp" line="248"/>
@@ -296,7 +296,7 @@ Runway Surface</source>
     <message>
         <location filename="src/gui/airspacetoolbarhandler.cpp" line="249"/>
         <source>Disable all airspaces in this category</source>
-        <translation type="unfinished"></translation>
+        <translation>Disabilita tutti gli spazi aerei in questa categoria</translation>
     </message>
 </context>
 <context>
@@ -1003,7 +1003,7 @@ Exiting now.</source>
         <location filename="src/db/databasemanager.cpp" line="1543"/>
         <location filename="src/db/databasemanager.cpp" line="1552"/>
         <source>None</source>
-        <translation type="unfinished">Nessuno</translation>
+        <translation>Nessuno</translation>
     </message>
     <message>
         <location filename="src/db/databasemanager.cpp" line="1573"/>
@@ -1124,12 +1124,12 @@ Exiting now.</source>
     <message>
         <location filename="src/info/infocontroller.cpp" line="642"/>
         <source>Showing information for online center.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizzate informazioni per il centro online.</translation>
     </message>
     <message>
         <location filename="src/info/infocontroller.cpp" line="644"/>
         <source>Showing information for online clients.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizzate informazioni per i client online.</translation>
     </message>
     <message>
         <location filename="src/info/infocontroller.cpp" line="728"/>
@@ -1159,12 +1159,12 @@ Exiting now.</source>
     <message>
         <location filename="src/gui/mainwindow.ui" line="17"/>
         <source>Little Navmap</source>
-        <translation type="unfinished">Little Navmap</translation>
+        <translation>Little Navmap</translation>
     </message>
     <message>
         <location filename="src/gui/mainwindow.ui" line="36"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;File</translation>
     </message>
     <message>
         <location filename="src/gui/mainwindow.ui" line="40"/>
@@ -1698,7 +1698,7 @@ Exiting now.</source>
     <message>
         <location filename="src/gui/mainwindow.ui" line="1091"/>
         <source>No Runway</source>
-        <translation type="unfinished">Nessuna Pista</translation>
+        <translation>Nessuna Pista</translation>
     </message>
     <message>
         <location filename="src/gui/mainwindow.ui" line="1131"/>
@@ -1814,7 +1814,7 @@ Exiting now.</source>
         <location filename="src/gui/mainwindow.ui" line="1419"/>
         <location filename="src/gui/mainwindow.ui" line="2147"/>
         <source>Scenery Path</source>
-        <translation type="unfinished">Percorso Scenari</translation>
+        <translation>Percorso Scenari</translation>
     </message>
     <message>
         <location filename="src/gui/mainwindow.ui" line="1429"/>
@@ -1850,7 +1850,7 @@ Exiting now.</source>
         <location filename="src/gui/mainwindow.ui" line="1579"/>
         <location filename="src/gui/mainwindow.ui" line="2464"/>
         <source>Ident</source>
-        <translation type="unfinished">Ident</translation>
+        <translation>Ident</translation>
     </message>
     <message>
         <location filename="src/gui/mainwindow.ui" line="1595"/>
@@ -1864,7 +1864,7 @@ Exiting now.</source>
         <location filename="src/gui/mainwindow.ui" line="2888"/>
         <location filename="src/gui/mainwindow.ui" line="3129"/>
         <source>Name</source>
-        <translation type="unfinished">Nome</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <location filename="src/gui/mainwindow.ui" line="1617"/>
@@ -1876,7 +1876,7 @@ Exiting now.</source>
         <location filename="src/gui/mainwindow.ui" line="1626"/>
         <location filename="src/gui/mainwindow.ui" line="2486"/>
         <source>Region</source>
-        <translation type="unfinished">Regione</translation>
+        <translation>Regione</translation>
     </message>
     <message>
         <location filename="src/gui/mainwindow.ui" line="1642"/>
@@ -2119,7 +2119,7 @@ Exiting now.</source>
     <message>
         <location filename="src/gui/mainwindow.ui" line="2312"/>
         <source>All Runways</source>
-        <translation type="unfinished">Tutte le Piste</translation>
+        <translation>Tutte le Piste</translation>
     </message>
     <message>
         <location filename="src/gui/mainwindow.ui" line="2333"/>
@@ -2182,7 +2182,7 @@ Exiting now.</source>
     <message>
         <location filename="src/gui/mainwindow.ui" line="2709"/>
         <source>Description</source>
-        <translation type="unfinished">Descrizione</translation>
+        <translation>Descrizione</translation>
     </message>
     <message>
         <location filename="src/gui/mainwindow.ui" line="2725"/>
@@ -2320,7 +2320,7 @@ Exiting now.</source>
     <message>
         <location filename="src/gui/mainwindow.ui" line="3198"/>
         <source>Tower</source>
-        <translation type="unfinished">Torre</translation>
+        <translation>Torre</translation>
     </message>
     <message>
         <location filename="src/gui/mainwindow.ui" line="3203"/>
@@ -2390,12 +2390,12 @@ Exiting now.</source>
     <message>
         <location filename="src/gui/mainwindow.ui" line="3570"/>
         <source>IFR</source>
-        <translation type="unfinished">IFR</translation>
+        <translation>IFR</translation>
     </message>
     <message>
         <location filename="src/gui/mainwindow.ui" line="3575"/>
         <source>VFR</source>
-        <translation type="unfinished">VFR</translation>
+        <translation>VFR</translation>
     </message>
     <message>
         <location filename="src/gui/mainwindow.ui" line="3651"/>
@@ -2405,7 +2405,7 @@ Exiting now.</source>
     <message>
         <location filename="src/gui/mainwindow.ui" line="3686"/>
         <source>Airport</source>
-        <translation type="unfinished">Aeroporto</translation>
+        <translation>Aeroporto</translation>
     </message>
     <message>
         <location filename="src/gui/mainwindow.ui" line="3710"/>
@@ -2414,7 +2414,7 @@ Exiting now.</source>
         <location filename="src/gui/mainwindow.ui" line="3830"/>
         <location filename="src/gui/mainwindow.ui" line="3865"/>
         <source>No airport selected.</source>
-        <translation type="unfinished">Nessun aeroporto selezionato.</translation>
+        <translation>Nessun aeroporto selezionato.</translation>
     </message>
     <message>
         <location filename="src/gui/mainwindow.ui" line="3759"/>
@@ -2777,7 +2777,7 @@ Exiting now.</source>
     <message>
         <location filename="src/gui/mainwindow.ui" line="4749"/>
         <source>Runway</source>
-        <translation type="unfinished">Pista</translation>
+        <translation>Pista</translation>
     </message>
     <message>
         <location filename="src/gui/mainwindow.ui" line="4752"/>
@@ -2895,7 +2895,7 @@ Exiting now.</source>
         <location filename="src/gui/mainwindow.ui" line="4924"/>
         <location filename="src/gui/mainwindow.ui" line="4971"/>
         <source>All</source>
-        <translation type="unfinished">Tutti</translation>
+        <translation>Tutti</translation>
     </message>
     <message>
         <location filename="src/gui/mainwindow.ui" line="4927"/>
@@ -3505,7 +3505,7 @@ Exiting now.</source>
     <message>
         <location filename="src/gui/mainwindow.ui" line="5776"/>
         <source>Set as Flight Plan Departure</source>
-        <translation type="unfinished">Imposta come Partenza nel Piano di Volo</translation>
+        <translation>Imposta come Partenza nel Piano di Volo</translation>
     </message>
     <message>
         <location filename="src/gui/mainwindow.ui" line="5779"/>
@@ -4535,7 +4535,7 @@ Exiting now.</source>
     <message>
         <location filename="src/gui/mainwindow.ui" line="6583"/>
         <source>&amp;Overview</source>
-        <translation type="unfinished">&amp;Panoramica</translation>
+        <translation>&amp;Panoramica</translation>
     </message>
     <message>
         <location filename="src/gui/mainwindow.ui" line="6586"/>
@@ -4695,7 +4695,7 @@ Exiting now.</source>
     <message>
         <location filename="src/gui/mainwindow.ui" line="6833"/>
         <source>Insert %1 into Flight Plan</source>
-        <translation type="unfinished">Inserisci %1 nel Piano di Volo</translation>
+        <translation>Inserisci %1 nel Piano di Volo</translation>
     </message>
     <message>
         <location filename="src/gui/mainwindow.ui" line="6836"/>
@@ -5245,7 +5245,7 @@ Exiting now.</source>
     <message>
         <location filename="src/gui/mainwindow.cpp" line="1439"/>
         <source> / </source>
-        <translation type="unfinished"> / </translation>
+        <translation> / </translation>
     </message>
     <message>
         <location filename="src/gui/mainwindow.cpp" line="1457"/>
@@ -5503,7 +5503,7 @@ Only JPG, PNG and BMP are allowed.</source>
     <message>
         <location filename="src/gui/mainwindow.cpp" line="2174"/>
         <source>X-Plane</source>
-        <translation type="unfinished">X-Plane</translation>
+        <translation>X-Plane</translation>
     </message>
     <message>
         <location filename="src/gui/mainwindow.cpp" line="2214"/>
@@ -5548,12 +5548,12 @@ Only JPG, PNG and BMP are allowed.</source>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="152"/>
         <source>Departure Airport</source>
-        <translation type="unfinished">Aeroporto di Partenza</translation>
+        <translation>Aeroporto di Partenza</translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="154"/>
         <source>Destination Airport</source>
-        <translation type="unfinished">Aeroporto Destinazione</translation>
+        <translation>Aeroporto Destinazione</translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="156"/>
@@ -5610,7 +5610,7 @@ Only JPG, PNG and BMP are allowed.</source>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="194"/>
         <source>3D</source>
-        <translation type="unfinished">3D</translation>
+        <translation>3D</translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="196"/>
@@ -5661,7 +5661,7 @@ Only JPG, PNG and BMP are allowed.</source>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="218"/>
         <source>ILS</source>
-        <translation type="unfinished">ILS</translation>
+        <translation>ILS</translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="221"/>
@@ -5687,7 +5687,7 @@ Only JPG, PNG and BMP are allowed.</source>
         <location filename="src/common/htmlinfobuilder.cpp" line="2614"/>
         <location filename="src/common/htmlinfobuilder.cpp" line="2679"/>
         <source>None</source>
-        <translation type="unfinished">Nessuno</translation>
+        <translation>Nessuno</translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="230"/>
@@ -5718,7 +5718,7 @@ Only JPG, PNG and BMP are allowed.</source>
         <location filename="src/common/htmlinfobuilder.cpp" line="2634"/>
         <location filename="src/common/htmlinfobuilder.cpp" line="2680"/>
         <source>, </source>
-        <translation type="unfinished">, </translation>
+        <translation>, </translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="236"/>
@@ -5845,7 +5845,7 @@ Only JPG, PNG and BMP are allowed.</source>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="1515"/>
         <source>File</source>
-        <translation type="unfinished">File</translation>
+        <translation>File</translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="1517"/>
@@ -5876,7 +5876,7 @@ Only JPG, PNG and BMP are allowed.</source>
         <location filename="src/common/htmlinfobuilder.cpp" line="276"/>
         <location filename="src/common/htmlinfobuilder.cpp" line="1054"/>
         <source>%1 </source>
-        <translation type="unfinished">%1: %2 {1 ?}</translation>
+        <translation>%1 </translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="277"/>
@@ -5955,7 +5955,7 @@ Only JPG, PNG and BMP are allowed.</source>
         <location filename="src/common/htmlinfobuilder.cpp" line="2389"/>
         <location filename="src/common/htmlinfobuilder.cpp" line="2469"/>
         <source>°M</source>
-        <translation type="unfinished">°M</translation>
+        <translation>°M</translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="317"/>
@@ -6063,7 +6063,7 @@ Only JPG, PNG and BMP are allowed.</source>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="406"/>
         <source>Type</source>
-        <translation type="unfinished">Tipo</translation>
+        <translation>Tipo</translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="407"/>
@@ -6073,7 +6073,7 @@ Only JPG, PNG and BMP are allowed.</source>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="408"/>
         <source>Name</source>
-        <translation type="unfinished">Nome</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="415"/>
@@ -6101,7 +6101,7 @@ Only JPG, PNG and BMP are allowed.</source>
         <location filename="src/common/htmlinfobuilder.cpp" line="457"/>
         <location filename="src/common/htmlinfobuilder.cpp" line="568"/>
         <source> x </source>
-        <translation type="unfinished"> x </translation>
+        <translation> x </translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="463"/>
@@ -6152,7 +6152,7 @@ Only JPG, PNG and BMP are allowed.</source>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="487"/>
         <source>Ident</source>
-        <translation type="unfinished">Ident</translation>
+        <translation>Ident</translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="489"/>
@@ -6263,7 +6263,7 @@ Only JPG, PNG and BMP are allowed.</source>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="597"/>
         <source>Runway %1</source>
-        <translation type="unfinished">Pista %1</translation>
+        <translation>Pista %1</translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="599"/>
@@ -6323,7 +6323,7 @@ Only JPG, PNG and BMP are allowed.</source>
         <location filename="src/common/htmlinfobuilder.cpp" line="1910"/>
         <location filename="src/common/htmlinfobuilder.cpp" line="2346"/>
         <source>%1</source>
-        <translation type="unfinished">%1: %2 {1?}</translation>
+        <translation>%1</translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="662"/>
@@ -6335,7 +6335,7 @@ Only JPG, PNG and BMP are allowed.</source>
         <location filename="src/common/htmlinfobuilder.cpp" line="667"/>
         <location filename="src/common/htmlinfobuilder.cpp" line="669"/>
         <source>%1°</source>
-        <translation type="unfinished">%1: %2 {1°?}</translation>
+        <translation>%1°</translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="666"/>
@@ -6435,7 +6435,7 @@ Only JPG, PNG and BMP are allowed.</source>
         <location filename="src/common/htmlinfobuilder.cpp" line="735"/>
         <location filename="src/common/htmlinfobuilder.cpp" line="739"/>
         <source>°</source>
-        <translation type="unfinished">°</translation>
+        <translation>°</translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="738"/>
@@ -6640,7 +6640,7 @@ Only JPG, PNG and BMP are allowed.</source>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="1009"/>
         <source>NDB</source>
-        <translation type="unfinished">NDB</translation>
+        <translation>NDB</translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="1011"/>
@@ -6784,7 +6784,7 @@ Only JPG, PNG and BMP are allowed.</source>
         <location filename="src/common/htmlinfobuilder.cpp" line="1717"/>
         <location filename="src/common/htmlinfobuilder.cpp" line="2040"/>
         <source>%1 %2</source>
-        <translation type="unfinished">%1 %2</translation>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="1270"/>
@@ -7026,7 +7026,7 @@ Only JPG, PNG and BMP are allowed.</source>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="1756"/>
         <source> ► </source>
-        <translation type="unfinished"> ► </translation>
+        <translation> ► </translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="1759"/>
@@ -7034,7 +7034,7 @@ Only JPG, PNG and BMP are allowed.</source>
         <location filename="src/common/htmlinfobuilder.cpp" line="1792"/>
         <location filename="src/common/htmlinfobuilder.cpp" line="1800"/>
         <source>%1/%2</source>
-        <translation type="unfinished">%1: %2 {1/%2?}</translation>
+        <translation>%1/%2</translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="1769"/>
@@ -7069,12 +7069,12 @@ Only JPG, PNG and BMP are allowed.</source>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="1834"/>
         <source>Tower</source>
-        <translation type="unfinished">Torre</translation>
+        <translation>Torre</translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="1844"/>
         <source>Has Jetway</source>
-        <translation type="unfinished">Ha Jetway</translation>
+        <translation>Ha Jetway</translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="1846"/>
@@ -7375,7 +7375,7 @@ Only JPG, PNG and BMP are allowed.</source>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="1766"/>
         <source>%1/%2%3%4/%5</source>
-        <translation type="unfinished">%1: %2 {1/%2%3%4/%5?}</translation>
+        <translation>%1/%2%3%4/%5</translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="1771"/>
@@ -7436,7 +7436,7 @@ Only JPG, PNG and BMP are allowed.</source>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="2426"/>
         <source>No Flight Plan</source>
-        <translation type="unfinished">Niente Piano di Volo</translation>
+        <translation>Nessun Piano di Volo</translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="2049"/>
@@ -7462,7 +7462,7 @@ Only JPG, PNG and BMP are allowed.</source>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="1965"/>
         <source>%1%2</source>
-        <translation type="unfinished">%1: %2 {1%2?}</translation>
+        <translation>%1%2</translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="1968"/>
@@ -7585,7 +7585,7 @@ Only JPG, PNG and BMP are allowed.</source>
         <location filename="src/common/htmlinfobuilder.cpp" line="2471"/>
         <location filename="src/common/htmlinfobuilder.cpp" line="2480"/>
         <source>°T</source>
-        <translation type="unfinished">°T</translation>
+        <translation>°T</translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="2479"/>
@@ -7611,7 +7611,7 @@ Only JPG, PNG and BMP are allowed.</source>
         <location filename="src/common/htmlinfobuilder.cpp" line="2499"/>
         <location filename="src/common/htmlinfobuilder.cpp" line="2504"/>
         <source> %</source>
-        <translation type="unfinished"> %</translation>
+        <translation> %</translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="2504"/>
@@ -7626,7 +7626,7 @@ Only JPG, PNG and BMP are allowed.</source>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="2517"/>
         <source>Altitude</source>
-        <translation type="unfinished">Altitudine</translation>
+        <translation>Altitudine</translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="2523"/>
@@ -7803,7 +7803,7 @@ Only JPG, PNG and BMP are allowed.</source>
         <location filename="src/common/htmlinfobuilder.cpp" line="2109"/>
         <location filename="src/common/htmlinfobuilder.cpp" line="2692"/>
         <source>Position</source>
-        <translation type="unfinished">Posizione</translation>
+        <translation>Posizione</translation>
     </message>
     <message>
         <location filename="src/common/htmlinfobuilder.cpp" line="2110"/>
@@ -7947,35 +7947,35 @@ Only JPG, PNG and BMP are allowed.</source>
         <location filename="src/mapgui/mappaintermark.cpp" line="517"/>
         <source>N</source>
         <comment>North</comment>
-        <translation type="unfinished"></translation>
+        <translation>N</translation>
     </message>
     <message>
         <location filename="src/mapgui/mappaintermark.cpp" line="519"/>
         <source>E</source>
         <comment>East</comment>
-        <translation type="unfinished"></translation>
+        <translation>E</translation>
     </message>
     <message>
         <location filename="src/mapgui/mappaintermark.cpp" line="521"/>
         <source>S</source>
         <comment>South</comment>
-        <translation type="unfinished"></translation>
+        <translation>S</translation>
     </message>
     <message>
         <location filename="src/mapgui/mappaintermark.cpp" line="523"/>
         <source>W</source>
         <comment>West</comment>
-        <translation type="unfinished"></translation>
+        <translation>O</translation>
     </message>
     <message>
         <location filename="src/mapgui/mappaintermark.cpp" line="570"/>
         <source>%1°M</source>
-        <translation type="unfinished"></translation>
+        <translation>%1°M</translation>
     </message>
     <message>
         <location filename="src/mapgui/mappaintermark.cpp" line="571"/>
         <source>TRK</source>
-        <translation type="unfinished"></translation>
+        <translation>TRK</translation>
     </message>
     <message>
         <location filename="src/mapgui/mappaintermark.cpp" line="631"/>
@@ -8222,7 +8222,7 @@ Only JPG, PNG and BMP are allowed.</source>
     <message>
         <location filename="src/mapgui/mapvisible.cpp" line="178"/>
         <source>VOR (V)</source>
-        <translation type="unfinished"></translation>
+        <translation>VOR (V)</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapvisible.cpp" line="182"/>
@@ -8277,7 +8277,7 @@ Only JPG, PNG and BMP are allowed.</source>
     <message>
         <location filename="src/mapgui/mapvisible.cpp" line="221"/>
         <source>ICAO</source>
-        <translation type="unfinished">ICAO</translation>
+        <translation>ICAO</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapvisible.cpp" line="222"/>
@@ -8423,87 +8423,90 @@ Only JPG, PNG and BMP are allowed.</source>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="439"/>
         <source>Map position history next.</source>
-        <translation type="unfinished"></translation>
+        <translation>Posizione successiva sulla mappa.</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="454"/>
         <source>Map position history back.</source>
-        <translation type="unfinished"></translation>
+        <translation>Posizione sulla mappa precedente.</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="875"/>
         <source>Showing distance search center.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra distanza dal centro ricerca.</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="918"/>
         <source>Showing home position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra posizione base.</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="929"/>
         <source>Distance search center position changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiata la distanza dalla posizione centro ricerca.</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="937"/>
         <source>Changed home position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiate la posizione base.</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="1460"/>
         <source>Add </source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi </translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="1460"/>
         <source> to Flight Plan</source>
-        <translation type="unfinished"></translation>
+        <translation> al Piano di Volo</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="1509"/>
         <source>Userpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto utente</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="1517"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="1759"/>
         <source>Online Center %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Centro Online %1</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="1762"/>
         <source>Airspace</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Spazio aereo</lengthvariant>
+            <lengthvariant></lengthvariant>
+        </translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="1795"/>
         <source>Helipad %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliporto %1</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="1821"/>
         <source>%1 / %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="1828"/>
         <source>Online Client Aircraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Client Aereo Online %1</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="1834"/>
         <source>User Aircraft</source>
-        <translation type="unfinished"></translation>
+        <translation>Aereo Utente</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="1913"/>
         <source> and more</source>
-        <translation type="unfinished"></translation>
+        <translation> e più</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="1961"/>
@@ -8511,118 +8514,118 @@ Only JPG, PNG and BMP are allowed.</source>
         <location filename="src/mapgui/mapwidget.cpp" line="2022"/>
         <location filename="src/mapgui/mapwidget.cpp" line="2031"/>
         <source>Position</source>
-        <translation type="unfinished">Posizione</translation>
+        <translation>Posizione</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="1986"/>
         <source>Departure </source>
-        <translation type="unfinished"></translation>
+        <translation>Partenza </translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="1990"/>
         <source>Show procedures (%1 has no departure procedure)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra procedure (%1 non ha SID)</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="1997"/>
         <source>Arrival </source>
-        <translation type="unfinished"></translation>
+        <translation>Arrivo </translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="2001"/>
         <source>Show procedures (%1 has no arrival procedure)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra procedure (%1 non ha STAR)</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="2006"/>
         <source>all </source>
-        <translation type="unfinished"></translation>
+        <translation>tutto </translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="2010"/>
         <source>Show procedures (%1 has no procedure)</source>
-        <translation type="unfinished">Mostra procedure (%1 non ha procedure)</translation>
+        <translation>Mostra procedure (%1 non ha procedure)</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="2923"/>
         <source>Showing online client aircraft on map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra gli aerei client online sulla mappa.</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="2942"/>
         <source>Showing navaid or userpoint on map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra radioaiuti o i punti utente sulla mappa.</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="3300"/>
         <source>Jumped back to aircraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Torna all&apos;aereo.</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="2051"/>
         <location filename="src/mapgui/mapwidget.cpp" line="2052"/>
         <source>here</source>
-        <translation type="unfinished"></translation>
+        <translation>qui</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="2178"/>
         <source>Range ring removed from map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anello distanza rimosso dalla mappa.</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="2184"/>
         <source>Measurement line removed from map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Linea di misura rimossa dalla mappa.</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="2384"/>
         <source>Added range rings for %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiunto anella di misura per %1.</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="2401"/>
         <source>Added range rings for position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiunti anelli di misura per la posizione.</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="2413"/>
         <source>All range rings and measurement lines removed from map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutti gli anelli e le linee di misura rimosse dalla mappa.</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="2913"/>
         <source>Showing user aircraft on map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra aerei utente sulla mappa.</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="2918"/>
         <source>Showing AI / multiplayer aircraft on map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra AI/aerei multiplayer sulla mappa.</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="2928"/>
         <source>Showing airport on map.</source>
-        <translation type="unfinished">Mostra aeroporti sulla mappa.</translation>
+        <translation>Mostra aeroporti sulla mappa.</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="3042"/>
         <source>Aircraft track removed from map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tracce aerei rimosse dalla mappa.</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="3197"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normale</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="3204"/>
         <source>Detail %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dettaglio %1</translation>
     </message>
     <message>
         <location filename="src/mapgui/mapwidget.cpp" line="3205"/>
         <source>Map detail level changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiato il livello di dettaglio della mappa.</translation>
     </message>
 </context>
 <context>
@@ -8721,7 +8724,7 @@ Mag.°</translation>
     <message>
         <location filename="src/search/navsearch.cpp" line="191"/>
         <source>%1 overriding all other search options.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ignora tutte le altre opzioni di ricerca.</translation>
     </message>
 </context>
 <context>
@@ -8729,76 +8732,83 @@ Mag.°</translation>
     <message>
         <location filename="src/search/onlinecentersearch.cpp" line="56"/>
         <source>Callsign</source>
-        <translation type="unfinished"></translation>
+        <translation>Nominativo</translation>
     </message>
     <message>
         <location filename="src/search/onlinecentersearch.cpp" line="57"/>
         <source>Name</source>
-        <translation type="unfinished">Nome</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <location filename="src/search/onlinecentersearch.cpp" line="59"/>
         <source>Facility
 Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo di
+Servizio</translation>
     </message>
     <message>
         <location filename="src/search/onlinecentersearch.cpp" line="60"/>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Server</translation>
     </message>
     <message>
         <location filename="src/search/onlinecentersearch.cpp" line="61"/>
         <source>Frequency
 MHz</source>
-        <translation type="unfinished"></translation>
+        <translation>Frequenza
+MHz</translation>
     </message>
     <message>
         <location filename="src/search/onlinecentersearch.cpp" line="62"/>
         <source>Range
 %dist%</source>
-        <translation type="unfinished">Distanza
+        <translation>Distanza
 %dist%</translation>
     </message>
     <message>
         <location filename="src/search/onlinecentersearch.cpp" line="63"/>
         <source>Combined
 Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Valutazione
+Combinata</translation>
     </message>
     <message>
         <location filename="src/search/onlinecentersearch.cpp" line="64"/>
         <source>Admin
 Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Valutazione
+Amministrativa</translation>
     </message>
     <message>
         <location filename="src/search/onlinecentersearch.cpp" line="65"/>
         <source>ATC
 Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Valutazione
+ATC</translation>
     </message>
     <message>
         <location filename="src/search/onlinecentersearch.cpp" line="66"/>
         <source>ATIS</source>
-        <translation type="unfinished"></translation>
+        <translation>ATIS</translation>
     </message>
     <message>
         <location filename="src/search/onlinecentersearch.cpp" line="67"/>
         <source>ATIS
 Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Orario
+ATIS</translation>
     </message>
     <message>
         <location filename="src/search/onlinecentersearch.cpp" line="68"/>
         <source>Connection
 Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tempo di
+Connessione</translation>
     </message>
     <message>
         <location filename="src/search/onlinecentersearch.cpp" line="203"/>
         <source>, </source>
-        <translation type="unfinished">, </translation>
+        <translation>, </translation>
     </message>
 </context>
 <context>
@@ -8806,139 +8816,154 @@ Time</source>
     <message>
         <location filename="src/search/onlineclientsearch.cpp" line="45"/>
         <source>Callsign</source>
-        <translation type="unfinished"></translation>
+        <translation>Nominativo</translation>
     </message>
     <message>
         <location filename="src/search/onlineclientsearch.cpp" line="46"/>
         <source>Name</source>
-        <translation type="unfinished">Nome</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <location filename="src/search/onlineclientsearch.cpp" line="47"/>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Server</translation>
     </message>
     <message>
         <location filename="src/search/onlineclientsearch.cpp" line="48"/>
         <source>Departure</source>
-        <translation type="unfinished"></translation>
+        <translation>Partenza</translation>
     </message>
     <message>
         <location filename="src/search/onlineclientsearch.cpp" line="49"/>
         <source>Destination</source>
-        <translation type="unfinished"></translation>
+        <translation>Destinazione</translation>
     </message>
     <message>
         <location filename="src/search/onlineclientsearch.cpp" line="51"/>
         <source>Prefile</source>
-        <translation type="unfinished"></translation>
+        <translation>Prefile</translation>
     </message>
     <message>
         <location filename="src/search/onlineclientsearch.cpp" line="52"/>
         <source>On Ground</source>
-        <translation type="unfinished"></translation>
+        <translation>A Terra</translation>
     </message>
     <message>
         <location filename="src/search/onlineclientsearch.cpp" line="53"/>
         <source>Groundspeed
 %speed%</source>
         <oldsource>Groundspeed</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Velocità al suolo
+%speed%</translation>
     </message>
     <message>
         <location filename="src/search/onlineclientsearch.cpp" line="54"/>
         <source>Altitude
 %alt%</source>
         <oldsource>Altitude</oldsource>
-        <translation type="unfinished">Altitudine</translation>
+        <translation>Altitudine
+%alt%</translation>
     </message>
     <message>
         <location filename="src/search/onlineclientsearch.cpp" line="55"/>
         <source>Aircraft</source>
-        <translation type="unfinished"></translation>
+        <translation>Aereo</translation>
     </message>
     <message>
         <location filename="src/search/onlineclientsearch.cpp" line="56"/>
         <source>Planned
 Departure</source>
-        <translation type="unfinished"></translation>
+        <translation>Partenza
+Pianificata</translation>
     </message>
     <message>
         <location filename="src/search/onlineclientsearch.cpp" line="57"/>
         <source>Actual
 Departure</source>
-        <translation type="unfinished"></translation>
+        <translation>Partenza
+Corrente</translation>
     </message>
     <message>
         <location filename="src/search/onlineclientsearch.cpp" line="58"/>
         <source>Planned
 Cruising Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Velocità di crociera
+Pianificata</translation>
     </message>
     <message>
         <location filename="src/search/onlineclientsearch.cpp" line="59"/>
         <source>Planned
 Cruising Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Livello di Crociera
+Pianificato</translation>
     </message>
     <message>
         <location filename="src/search/onlineclientsearch.cpp" line="60"/>
         <source>Transponder
 Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Codice
+Transponder</translation>
     </message>
     <message>
         <location filename="src/search/onlineclientsearch.cpp" line="61"/>
         <source>ICAO Flight
 Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Regole di
+Volo ICAO</translation>
     </message>
     <message>
         <location filename="src/search/onlineclientsearch.cpp" line="62"/>
         <source>ICAO Flight
 Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo di
+Volo ICAO</translation>
     </message>
     <message>
         <location filename="src/search/onlineclientsearch.cpp" line="63"/>
         <source>Enroute
 hh:mm</source>
-        <translation type="unfinished"></translation>
+        <translation>In viaggio
+hh:mm</translation>
     </message>
     <message>
         <location filename="src/search/onlineclientsearch.cpp" line="64"/>
         <source>Endurance
 hh:mm</source>
-        <translation type="unfinished"></translation>
+        <translation>Durata
+hh:mm</translation>
     </message>
     <message>
         <location filename="src/search/onlineclientsearch.cpp" line="65"/>
         <source>Combined
 Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Valutazione
+Combinata</translation>
     </message>
     <message>
         <location filename="src/search/onlineclientsearch.cpp" line="66"/>
         <source>Admin
 Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Valutazione
+Amministrativa</translation>
     </message>
     <message>
         <location filename="src/search/onlineclientsearch.cpp" line="67"/>
         <source>Pilot
 Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Valutazione
+del Pilota</translation>
     </message>
     <message>
         <location filename="src/search/onlineclientsearch.cpp" line="68"/>
         <source>Connection
 Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Orario
+Coincidenza</translation>
     </message>
     <message>
         <location filename="src/search/onlineclientsearch.cpp" line="205"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Sì</translation>
     </message>
 </context>
 <context>
@@ -8946,29 +8971,31 @@ Time</source>
     <message>
         <location filename="src/search/onlineserversearch.cpp" line="44"/>
         <source>Name</source>
-        <translation type="unfinished">Nome</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <location filename="src/search/onlineserversearch.cpp" line="45"/>
         <source>Ident</source>
-        <translation type="unfinished">Ident</translation>
+        <translation>Ident</translation>
     </message>
     <message>
         <location filename="src/search/onlineserversearch.cpp" line="46"/>
         <source>Hostname or
 IP-Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Hostname o
+Indirizzo IP</translation>
     </message>
     <message>
         <location filename="src/search/onlineserversearch.cpp" line="47"/>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Posizione</translation>
     </message>
     <message>
         <location filename="src/search/onlineserversearch.cpp" line="48"/>
         <source>Voice
 Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Voce
+Tipo</translation>
     </message>
 </context>
 <context>
@@ -8984,7 +9011,15 @@ failed. Reason:
 %2
 
 Press OK to retry.</source>
-        <translation type="unfinished"></translation>
+        <translation>Scaricamento da
+
+&quot;%1&quot;
+
+fallito. Causa:
+
+%2
+
+Premi OK per riprovare.</translation>
     </message>
     <message>
         <location filename="src/online/onlinedatacontroller.cpp" line="271"/>
@@ -8992,22 +9027,25 @@ Press OK to retry.</source>
 
 %2
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Messaggio dal file di stato scaricato:
+
+%2
+</translation>
     </message>
     <message>
         <location filename="src/online/onlinedatacontroller.cpp" line="318"/>
         <source>VATSIM</source>
-        <translation type="unfinished"></translation>
+        <translation>VATSIM</translation>
     </message>
     <message>
         <location filename="src/online/onlinedatacontroller.cpp" line="321"/>
         <source>IVAO</source>
-        <translation type="unfinished"></translation>
+        <translation>IVAO</translation>
     </message>
     <message>
         <location filename="src/online/onlinedatacontroller.cpp" line="325"/>
         <source>Custom Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Rete Personalizzata</translation>
     </message>
 </context>
 <context>
@@ -9229,7 +9267,7 @@ A restart is required for the settings to take effect.</source>
         <location filename="src/options/options.ui" line="1679"/>
         <location filename="src/options/options.ui" line="2184"/>
         <source> %</source>
-        <translation type="unfinished"> %</translation>
+        <translation> %</translation>
     </message>
     <message>
         <location filename="src/options/options.ui" line="405"/>
@@ -9322,7 +9360,7 @@ A range ring will be added for each radius value.</source>
     <message>
         <location filename="src/options/options.ui" line="1066"/>
         <source>50 100 200 500</source>
-        <translation type="unfinished">50 100 200 500</translation>
+        <translation>50 100 200 500</translation>
     </message>
     <message>
         <location filename="src/options/options.ui" line="1021"/>
@@ -10592,7 +10630,7 @@ Changes only settings that can be done with this dialog.</source>
     <message>
         <location filename="src/options/optionsdialog.cpp" line="127"/>
         <source>Airport</source>
-        <translation type="unfinished">Aeroporto</translation>
+        <translation>Aeroporto</translation>
     </message>
     <message>
         <location filename="src/options/optionsdialog.cpp" line="127"/>
@@ -10643,7 +10681,7 @@ Changes only settings that can be done with this dialog.</source>
         <location filename="src/options/optionsdialog.cpp" line="138"/>
         <location filename="src/options/optionsdialog.cpp" line="162"/>
         <source>Type</source>
-        <translation type="unfinished">Tipo</translation>
+        <translation>Tipo</translation>
     </message>
     <message>
         <location filename="src/options/optionsdialog.cpp" line="139"/>
@@ -10690,7 +10728,7 @@ Changes only settings that can be done with this dialog.</source>
         <location filename="src/options/optionsdialog.cpp" line="147"/>
         <location filename="src/options/optionsdialog.cpp" line="169"/>
         <source>Altitude</source>
-        <translation type="unfinished">Altitudine</translation>
+        <translation>Altitudine</translation>
     </message>
     <message>
         <location filename="src/options/optionsdialog.cpp" line="148"/>
@@ -11114,7 +11152,7 @@ This process will run in background and can take a while.</source>
     <message>
         <location filename="src/search/proceduresearch.cpp" line="419"/>
         <source>All</source>
-        <translation type="unfinished">Tutti</translation>
+        <translation>Tutti</translation>
     </message>
     <message>
         <source>No airport selected.</source>
@@ -11184,17 +11222,17 @@ This process will run in background and can take a while.</source>
     <message>
         <location filename="src/search/proceduresearch.cpp" line="864"/>
         <source>&amp;Insert %1 into Flight Plan</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Inserisci %1 nel Piano di Volo</translation>
     </message>
     <message>
         <location filename="src/search/proceduresearch.cpp" line="868"/>
         <source>&amp;Use %1 and %2 as Destination</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Usa %1 e %2 come Destinazione</translation>
     </message>
     <message>
         <location filename="src/search/proceduresearch.cpp" line="872"/>
         <source>&amp;Use %1 and %2 as Departure</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Usa %1 e %2 come Partenza</translation>
     </message>
     <message>
         <location filename="src/search/proceduresearch.cpp" line="881"/>
@@ -11222,22 +11260,22 @@ Usare veramente?</translation>
     <message>
         <location filename="src/search/proceduresearch.cpp" line="985"/>
         <source>Departure from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Partenza da %1</translation>
     </message>
     <message>
         <location filename="src/search/proceduresearch.cpp" line="986"/>
         <source>Select departure runway for this SID</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona pista di decollo per questa SID</translation>
     </message>
     <message>
         <location filename="src/search/proceduresearch.cpp" line="990"/>
         <source>Arrival at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrivo alle %1</translation>
     </message>
     <message>
         <location filename="src/search/proceduresearch.cpp" line="991"/>
         <source>Select arrival runway for this STAR</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona pista di arrivo per questa STAR</translation>
     </message>
     <message>
         <location filename="src/search/proceduresearch.cpp" line="1064"/>
@@ -11257,7 +11295,7 @@ Usare veramente?</translation>
     <message>
         <location filename="src/search/proceduresearch.cpp" line="1072"/>
         <source>-%1</source>
-        <translation type="unfinished"></translation>
+        <translation>-%1</translation>
     </message>
     <message>
         <location filename="src/search/proceduresearch.cpp" line="1075"/>
@@ -11362,7 +11400,7 @@ Usare veramente?</translation>
     <message>
         <location filename="src/common/formatter.cpp" line="55"/>
         <source>%1:%2:%3</source>
-        <translation type="unfinished">%1: %2 {1:%2:%3?}</translation>
+        <translation>%1:%2:%3</translation>
     </message>
     <message>
         <location filename="src/common/formatter.cpp" line="68"/>
@@ -11417,13 +11455,13 @@ Usare veramente?</translation>
         <location filename="src/common/formatter.cpp" line="129"/>
         <location filename="src/common/formatter.cpp" line="137"/>
         <source>second</source>
-        <translation type="unfinished"></translation>
+        <translation>secondo</translation>
     </message>
     <message>
         <location filename="src/common/formatter.cpp" line="129"/>
         <location filename="src/common/formatter.cpp" line="137"/>
         <source>seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>secondi</translation>
     </message>
     <message>
         <location filename="src/common/formatter.cpp" line="135"/>
@@ -11433,12 +11471,12 @@ Usare veramente?</translation>
     <message>
         <location filename="src/common/formatter.cpp" line="136"/>
         <source>minute</source>
-        <translation type="unfinished"></translation>
+        <translation>minuto</translation>
     </message>
     <message>
         <location filename="src/common/formatter.cpp" line="136"/>
         <source>minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>minuti</translation>
     </message>
     <message>
         <location filename="src/common/formatter.cpp" line="156"/>
@@ -11585,7 +11623,7 @@ Usare veramente?</translation>
         <location filename="src/common/unit.cpp" line="355"/>
         <location filename="src/common/unit.cpp" line="383"/>
         <source>Invalid</source>
-        <translation type="unfinished">Non valido</translation>
+        <translation>Non valido</translation>
     </message>
     <message>
         <location filename="src/common/maptypes.cpp" line="100"/>
@@ -11685,7 +11723,7 @@ Usare veramente?</translation>
         <location filename="src/common/maptypes.cpp" line="138"/>
         <location filename="src/common/maptypes.cpp" line="162"/>
         <source>Fuel</source>
-        <translation type="unfinished">Carburante</translation>
+        <translation>Carburante</translation>
     </message>
     <message>
         <location filename="src/common/maptypes.cpp" line="116"/>
@@ -12120,7 +12158,7 @@ Usare veramente?</translation>
         <location filename="src/common/maptypes.cpp" line="257"/>
         <location filename="src/common/maptypes.cpp" line="260"/>
         <source>T</source>
-        <translation type="unfinished">T</translation>
+        <translation>T</translation>
     </message>
     <message>
         <location filename="src/common/maptypes.cpp" line="266"/>
@@ -12180,7 +12218,7 @@ Usare veramente?</translation>
         <location filename="src/common/proctypes.cpp" line="44"/>
         <location filename="src/common/proctypes.cpp" line="55"/>
         <source>VOR</source>
-        <translation type="unfinished"></translation>
+        <translation>VOR</translation>
     </message>
     <message>
         <location filename="src/common/maptypes.cpp" line="293"/>
@@ -12189,20 +12227,20 @@ Usare veramente?</translation>
         <location filename="src/common/proctypes.cpp" line="45"/>
         <location filename="src/common/proctypes.cpp" line="56"/>
         <source>NDB</source>
-        <translation type="unfinished">NDB</translation>
+        <translation>NDB</translation>
     </message>
     <message>
         <location filename="src/common/maptypes.cpp" line="299"/>
         <location filename="src/common/maptypes.cpp" line="1021"/>
         <location filename="src/common/proctypes.cpp" line="61"/>
         <source>VORDME</source>
-        <translation type="unfinished"></translation>
+        <translation>VORDME</translation>
     </message>
     <message>
         <location filename="src/common/maptypes.cpp" line="300"/>
         <location filename="src/common/maptypes.cpp" line="1006"/>
         <source>VORTAC</source>
-        <translation type="unfinished"></translation>
+        <translation>VORTAC</translation>
     </message>
     <message>
         <location filename="src/common/maptypes.cpp" line="301"/>
@@ -12214,7 +12252,7 @@ Usare veramente?</translation>
         <location filename="src/common/maptypes.cpp" line="303"/>
         <location filename="src/common/maptypes.cpp" line="1019"/>
         <source>DME</source>
-        <translation type="unfinished"></translation>
+        <translation>DME</translation>
     </message>
     <message>
         <location filename="src/common/maptypes.cpp" line="304"/>
@@ -12222,7 +12260,7 @@ Usare veramente?</translation>
         <location filename="src/common/maptypes.cpp" line="1230"/>
         <location filename="src/common/proctypes.cpp" line="70"/>
         <source>TACAN</source>
-        <translation type="unfinished"></translation>
+        <translation>TACAN</translation>
     </message>
     <message>
         <location filename="src/common/maptypes.cpp" line="305"/>
@@ -12234,12 +12272,12 @@ Usare veramente?</translation>
         <location filename="src/common/maptypes.cpp" line="307"/>
         <location filename="src/common/proctypes.cpp" line="47"/>
         <source>Waypoint</source>
-        <translation type="unfinished">Waypoint</translation>
+        <translation>Waypoint</translation>
     </message>
     <message>
         <location filename="src/common/maptypes.cpp" line="313"/>
         <source>None</source>
-        <translation type="unfinished">Nessuno</translation>
+        <translation>Nessuno</translation>
     </message>
     <message>
         <location filename="src/common/maptypes.cpp" line="319"/>
@@ -12506,7 +12544,7 @@ Usare veramente?</translation>
     <message>
         <location filename="src/common/maptypes.cpp" line="388"/>
         <source>Tower</source>
-        <translation type="unfinished">Torre</translation>
+        <translation>Torre</translation>
     </message>
     <message>
         <location filename="src/common/maptypes.cpp" line="389"/>
@@ -12547,7 +12585,7 @@ Usare veramente?</translation>
     <message>
         <location filename="src/common/maptypes.cpp" line="396"/>
         <source>Warning</source>
-        <translation type="unfinished">Attenzione</translation>
+        <translation>Attenzione</translation>
     </message>
     <message>
         <location filename="src/common/maptypes.cpp" line="397"/>
@@ -12717,12 +12755,12 @@ Usare veramente?</translation>
         <location filename="src/common/maptypes.cpp" line="713"/>
         <location filename="src/common/proctypes.cpp" line="49"/>
         <source>Runway</source>
-        <translation type="unfinished">Pista</translation>
+        <translation>Pista</translation>
     </message>
     <message>
         <location filename="src/common/maptypes.cpp" line="717"/>
         <source>Helipad</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliporto</translation>
     </message>
     <message>
         <location filename="src/common/maptypes.cpp" line="928"/>
@@ -12811,7 +12849,7 @@ Usare veramente?</translation>
     <message>
         <location filename="src/common/maptypes.cpp" line="1134"/>
         <source>0°</source>
-        <translation type="unfinished">0°</translation>
+        <translation>0°</translation>
     </message>
     <message>
         <location filename="src/common/maptypes.cpp" line="1159"/>
@@ -12916,12 +12954,12 @@ Usare veramente?</translation>
     <message>
         <location filename="src/common/maptypes.cpp" line="1243"/>
         <source>CL</source>
-        <translation type="unfinished">CL</translation>
+        <translation>CL</translation>
     </message>
     <message>
         <location filename="src/common/maptypes.cpp" line="1244"/>
         <source>NDB (%1)</source>
-        <translation type="unfinished">NDB (%1)</translation>
+        <translation>NDB (%1)</translation>
     </message>
     <message>
         <location filename="src/common/proctypes.cpp" line="43"/>
@@ -12947,7 +12985,7 @@ Usare veramente?</translation>
     <message>
         <location filename="src/common/proctypes.cpp" line="57"/>
         <source>ILS</source>
-        <translation type="unfinished">ILS</translation>
+        <translation>ILS</translation>
     </message>
     <message>
         <location filename="src/common/proctypes.cpp" line="59"/>
@@ -13228,7 +13266,7 @@ Usare veramente?</translation>
     <message>
         <location filename="src/common/proctypes.cpp" line="694"/>
         <source>°M</source>
-        <translation type="unfinished">°M</translation>
+        <translation>°M</translation>
     </message>
     <message>
         <location filename="src/common/proctypes.cpp" line="696"/>
@@ -13253,17 +13291,17 @@ Usare veramente?</translation>
     <message>
         <location filename="src/common/proctypes.cpp" line="734"/>
         <source>Transition</source>
-        <translation type="unfinished">Transizione</translation>
+        <translation>Transizione</translation>
     </message>
     <message>
         <location filename="src/common/proctypes.cpp" line="736"/>
         <source>STAR</source>
-        <translation type="unfinished">STAR</translation>
+        <translation>STAR</translation>
     </message>
     <message>
         <location filename="src/common/proctypes.cpp" line="738"/>
         <source>SID</source>
-        <translation type="unfinished">SID</translation>
+        <translation>SID</translation>
     </message>
     <message>
         <location filename="src/common/proctypes.cpp" line="740"/>
@@ -13354,17 +13392,17 @@ Usare veramente?</translation>
     <message>
         <location filename="src/route/routecontroller.cpp" line="105"/>
         <source>Ident</source>
-        <translation type="unfinished">Ident</translation>
+        <translation>Ident</translation>
     </message>
     <message>
         <location filename="src/route/routecontroller.cpp" line="106"/>
         <source>Region</source>
-        <translation type="unfinished">Regione</translation>
+        <translation>Regione</translation>
     </message>
     <message>
         <location filename="src/route/routecontroller.cpp" line="107"/>
         <source>Name</source>
-        <translation type="unfinished">Nome</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <location filename="src/route/routecontroller.cpp" line="108"/>
@@ -13387,7 +13425,7 @@ Procedure</source>
     <message>
         <location filename="src/route/routecontroller.cpp" line="111"/>
         <source>Type</source>
-        <translation type="unfinished">Tipo</translation>
+        <translation>Tipo</translation>
     </message>
     <message>
         <location filename="src/route/routecontroller.cpp" line="112"/>
@@ -13399,14 +13437,14 @@ MHz/kHz/Cha.</source>
         <location filename="src/route/routecontroller.cpp" line="113"/>
         <source>Range
 %dist%</source>
-        <translation type="unfinished">Distanza
+        <translation>Distanza
 %dist%</translation>
     </message>
     <message>
         <location filename="src/route/routecontroller.cpp" line="114"/>
         <source>Course
 °M</source>
-        <translation type="unfinished">Prua
+        <translation>Prua
 °M</translation>
     </message>
     <message>
@@ -13419,7 +13457,7 @@ MHz/kHz/Cha.</source>
         <location filename="src/route/routecontroller.cpp" line="116"/>
         <source>Distance
 %dist%</source>
-        <translation type="unfinished">Distanza
+        <translation>Distanza
 %dist%</translation>
     </message>
     <message>
@@ -13443,7 +13481,7 @@ hh:mm</source>
     <message>
         <location filename="src/route/routecontroller.cpp" line="120"/>
         <source>Remarks</source>
-        <translation type="unfinished">Note</translation>
+        <translation>Note</translation>
     </message>
     <message>
         <location filename="src/gui/mainwindow.cpp" line="100"/>
@@ -13476,7 +13514,7 @@ hh:mm</source>
     <message>
         <location filename="src/route/routecontroller.cpp" line="279"/>
         <source>Copied %1 entries to clipboard.</source>
-        <translation type="unfinished">Copiate %1 voci nella clipboard.</translation>
+        <translation>Copiate %1 voci nella clipboard.</translation>
     </message>
     <message>
         <location filename="src/route/routecontroller.cpp" line="347"/>
@@ -13624,12 +13662,12 @@ Try another routing type or create the flight plan manually.</source>
     <message>
         <location filename="src/route/routecontroller.cpp" line="1326"/>
         <source>Showing airport on map.</source>
-        <translation type="unfinished">Mostra aeroporti sulla mappa.</translation>
+        <translation>Mostra aeroporti sulla mappa.</translation>
     </message>
     <message>
         <location filename="src/route/routecontroller.cpp" line="1328"/>
         <source>Showing navaid on map.</source>
-        <translation type="unfinished">Mostra radioaiuti sulla mappa.</translation>
+        <translation>Mostra radioaiuti sulla mappa.</translation>
     </message>
     <message>
         <location filename="src/route/routecontroller.cpp" line="1387"/>
@@ -13716,12 +13754,12 @@ Try another routing type or create the flight plan manually.</source>
     <message>
         <location filename="src/route/routecontroller.cpp" line="1491"/>
         <source>Show Navaid Range</source>
-        <translation type="unfinished">Mostra Portata Radioaiuto</translation>
+        <translation>Mostra Portata Radioaiuto</translation>
     </message>
     <message>
         <location filename="src/route/routecontroller.cpp" line="1563"/>
         <source>Table view reset to defaults.</source>
-        <translation type="unfinished">Ripristina vista della Tabella al default.</translation>
+        <translation>Ripristina vista della Tabella al default.</translation>
     </message>
     <message>
         <location filename="src/route/routecontroller.cpp" line="1620"/>
@@ -13837,12 +13875,12 @@ Try another routing type or create the flight plan manually.</source>
     <message>
         <location filename="src/route/routecontroller.cpp" line="2603"/>
         <source>ILS</source>
-        <translation type="unfinished">ILS</translation>
+        <translation>ILS</translation>
     </message>
     <message>
         <location filename="src/route/routecontroller.cpp" line="2898"/>
         <source>Invalid</source>
-        <translation type="unfinished">Non valido</translation>
+        <translation>Non valido</translation>
     </message>
     <message>
         <location filename="src/route/routecontroller.cpp" line="2915"/>
@@ -13867,7 +13905,7 @@ Try another routing type or create the flight plan manually.</source>
     <message>
         <location filename="src/route/routecontroller.cpp" line="2960"/>
         <source>via SID</source>
-        <translation type="unfinished"></translation>
+        <translation>via SID</translation>
     </message>
     <message>
         <location filename="src/route/routecontroller.cpp" line="3012"/>
@@ -14500,13 +14538,13 @@ ETD ed ETA sono ignorati. ALTERNATES non funziona in combinazione con una proced
         <location filename="src/route/routestringdialog.cpp" line="196"/>
         <source>Found SID &lt;b&gt;%1&lt;/b&gt;.&lt;br/&gt;</source>
         <oldsource>Found departure procedure &lt;b&gt;%1&lt;/b&gt;.&lt;br/&gt;</oldsource>
-        <translation type="unfinished">Trovata procedura di partenza &lt;b&gt;%1&lt;/b&gt;.&lt;br/&gt;</translation>
+        <translation>Trovata SID &lt;b&gt;%1&lt;/b&gt;.&lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="src/route/routestringdialog.cpp" line="200"/>
         <source>Found STAR &lt;b&gt;%1&lt;/b&gt;.&lt;br/&gt;</source>
         <oldsource>Found arrival procedure &lt;b&gt;%1&lt;/b&gt;.&lt;br/&gt;</oldsource>
-        <translation type="unfinished">Trovata procedura di arrivo &lt;b&gt;%1&lt;/b&gt;.&lt;br/&gt;</translation>
+        <translation>Trovata STAR &lt;b&gt;%1&lt;/b&gt;.&lt;br/&gt;</translation>
     </message>
 </context>
 <context>
@@ -14538,37 +14576,37 @@ ETD ed ETA sono ignorati. ALTERNATES non funziona in combinazione con una proced
     <message>
         <location filename="src/search/searchbasetable.cpp" line="870"/>
         <source>Departure </source>
-        <translation type="unfinished"></translation>
+        <translation>Partenza </translation>
     </message>
     <message>
         <location filename="src/search/searchbasetable.cpp" line="873"/>
         <source>Show procedures (airport has no departure procedure)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra le procedure (l&apos;aeroporto non ha SID)</translation>
     </message>
     <message>
         <location filename="src/search/searchbasetable.cpp" line="880"/>
         <source>Arrival </source>
-        <translation type="unfinished"></translation>
+        <translation>Arrivo </translation>
     </message>
     <message>
         <location filename="src/search/searchbasetable.cpp" line="883"/>
         <source>Show procedures (airport has no arrival procedure)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra le procedure (l&apos;aeroporto non ha STAR)</translation>
     </message>
     <message>
         <location filename="src/search/searchbasetable.cpp" line="888"/>
         <source>all </source>
-        <translation type="unfinished"></translation>
+        <translation>tutte </translation>
     </message>
     <message>
         <location filename="src/search/searchbasetable.cpp" line="892"/>
         <source>Show procedures (airport has no procedure)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra le procedure (l&apos;aeroporto non ha procedure)</translation>
     </message>
     <message>
         <location filename="src/search/searchbasetable.cpp" line="895"/>
         <source>Show procedures</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra le procedure</translation>
     </message>
     <message>
         <location filename="src/search/searchbasetable.cpp" line="903"/>
@@ -14603,32 +14641,32 @@ ETD ed ETA sono ignorati. ALTERNATES non funziona in combinazione con una proced
     <message>
         <location filename="src/search/searchbasetable.cpp" line="1127"/>
         <source>Showing airspace on map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra spazi aerei sulla map.</translation>
     </message>
     <message>
         <location filename="src/search/searchbasetable.cpp" line="1132"/>
         <source>Showing VOR on map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra VOR sulla mappa.</translation>
     </message>
     <message>
         <location filename="src/search/searchbasetable.cpp" line="1137"/>
         <source>Showing NDB on map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra NDB sulla mappa.</translation>
     </message>
     <message>
         <location filename="src/search/searchbasetable.cpp" line="1142"/>
         <source>Showing waypoint on map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra waypoint sulla map.</translation>
     </message>
     <message>
         <location filename="src/search/searchbasetable.cpp" line="1147"/>
         <source>Showing userpoint on map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra punti utente sulla mappa.</translation>
     </message>
     <message>
         <location filename="src/search/searchbasetable.cpp" line="1152"/>
         <source>Showing online client/aircraft on map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra client/aerei online sulla mappa.</translation>
     </message>
     <message>
         <source>Showing navaid on map.</source>
@@ -14866,12 +14904,12 @@ ETD ed ETA sono ignorati. ALTERNATES non funziona in combinazione con una proced
         <location filename="src/route/userwaypointdialog.ui" line="14"/>
         <source>Little Navmap - Edit Position</source>
         <oldsource>Little Navmap - Edit User Waypoint Name</oldsource>
-        <translation type="unfinished">Little Navmap - Cambia il nome del Waypoint Utente</translation>
+        <translation>Little Navmap - Modifica la Posizione</translation>
     </message>
     <message>
         <location filename="src/route/userwaypointdialog.ui" line="20"/>
         <source>&amp;Latitude and Longitude:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Latitudine e Longitudine:</translation>
     </message>
     <message>
         <location filename="src/route/userwaypointdialog.ui" line="43"/>
@@ -14890,12 +14928,26 @@ Other formats:
 - Degrees and minutes in pair &quot;N6500 W08000&quot; or &quot;N6500/W08000
 - NAT type 5020N
 Formats above have to be given exactly as shown in the examples.</source>
-        <translation type="unfinished"></translation>
+        <translation>Formati di coordinate riconosciuti:
+- Gradi, minuti e secondi: N49° 26&apos; 41.57&quot; E9° 12&apos; 5.49&quot; or 49° 26&apos; 41.57&quot; N 9° 12&apos; 5.49&quot; E
+- Gradi e mnuti: N54* 16.82&apos; W008* 35.95&apos;, N 52 33.58 E 13 17.26 or 49° 26.69&apos; N 9° 12.09&apos; E
+- Solo Gradi: 49.4449° N 9.2015° E or N 49.4449° E 9:2015°
+Il segno di Gradi, minuti e secondi può essere omesso per i formati sopra.
+La Latitudine deve comparire prima e sono richiesti gli indicatori N/S e E/O.
+Solo uno spazio è richiesto per separare latitudine e longitudine o i gradi/minuti/secondi se non è usato il segno.
+Altri formati:
+- Gradi e minuti: N44124W122451, N14544W017479 or S31240E136502
+- Solo Gradi 46N078W
+- Gradi e minuti 4620N07805W
+- Gradi, minuti e secondi 481200N0112842E (Skyvector)
+- Gradi e minuti in coppie &quot;N6500 W08000&quot; o &quot;N6500/W08000
+- tipo NAT 5020N
+I formati sopra vanno usati esattamente come mostrato negli esempi.</translation>
     </message>
     <message>
         <location filename="src/route/userwaypointdialog.ui" line="64"/>
         <source>&amp;Name of Position:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nome della Posizione:</translation>
     </message>
     <message>
         <source>Enter name for user waypoint:</source>
@@ -14912,7 +14964,7 @@ Formats above have to be given exactly as shown in the examples.</source>
     <message>
         <location filename="src/userdata/userdatacontroller.cpp" line="99"/>
         <source>All</source>
-        <translation type="unfinished">Tutti</translation>
+        <translation>Tutti</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatacontroller.cpp" line="100"/>
@@ -14922,7 +14974,7 @@ Formats above have to be given exactly as shown in the examples.</source>
     <message>
         <location filename="src/userdata/userdatacontroller.cpp" line="106"/>
         <source>None</source>
-        <translation type="unfinished">Nessuno</translation>
+        <translation>Nessuno</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatacontroller.cpp" line="107"/>
@@ -15064,7 +15116,7 @@ Formats above have to be given exactly as shown in the examples.</source>
         <location filename="src/userdata/userdatacontroller.cpp" line="468"/>
         <location filename="src/userdata/userdatacontroller.cpp" line="471"/>
         <source>, </source>
-        <translation type="unfinished">, </translation>
+        <translation>, </translation>
     </message>
     <message>
         <location filename="src/userdata/userdatacontroller.cpp" line="470"/>
@@ -15199,12 +15251,12 @@ before deleting.</source>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="14"/>
         <source>Little Navmap - Userpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>Little Navmap - Punto utente</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="40"/>
         <source>Check to change type for all selected waypoints</source>
-        <translation type="unfinished"></translation>
+        <translation>Spunta per cambiare il tipo di tutti i waypoint selezionati</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="63"/>
@@ -15213,28 +15265,32 @@ before deleting.</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Ubuntu&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Ubuntu&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="77"/>
         <source>&amp;Ident:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ident:</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="87"/>
         <source>&amp;Latitude and Longitude:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Latitudine e Longitudine:</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="97"/>
         <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nome:</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="107"/>
         <location filename="src/userdata/userdatadialog.ui" line="218"/>
         <source>Check to change ident for all selected waypoints</source>
-        <translation type="unfinished"></translation>
+        <translation>Spunta per cambiare ident di tutti i waypoint selezionati</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="117"/>
@@ -15253,148 +15309,163 @@ Other formats:
 - Degrees and minutes in pair &quot;N6500 W08000&quot; or &quot;N6500/W08000
 - NAT type 5020N 
 Formats above have to be given exactly as shown in the examples.</source>
-        <translation type="unfinished"></translation>
+        <translation>Formati di coordinate supporati:
+- Gradi, minuti e secondi : N49° 26&apos; 41.57&quot; E9° 12&apos; 5.49&quot; or 49° 26&apos; 41.57&quot; N 9° 12&apos; 5.49&quot; E
+- Gradi e minuti: N54* 16.82&apos; W008* 35.95&apos;, N 52 33.58 E 13 17.26 or 49° 26.69&apos; N 9° 12.09&apos; E
+- Solo Gradi: 49.4449° N 9.2015° E or N 49.4449° E 9:2015°
+Il segno dei Gradi, minuti e secondi può essere omesso per i formati sopra. 
+La Latitudine deve comparire prima e gli indicatori N/S e E/O sono richiesti.
+Uno spazio solo è richiesto per separare latitudine e longituine o gradi/primi/secondi se non è usato il segno.
+Altri formati:
+- Gradi e minuti: N44124W122451, N14544W017479 o S31240E136502
+- Solo gradi 46N078W
+- Gradi e minuti 4620N07805W
+- Gradi, minuti e secondi 481200N0112842E (Skyvector)
+- Gradi e minuti in coppie &quot;N6500 W08000&quot; o &quot;N6500/W08000
+- tipo NAT 5020N 
+I formati sopra devono essere forniti esattamente come mostrati negli esempi.</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="138"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ident code of the waypoint. &lt;/p&gt;&lt;p&gt;An up to five character ident is required for export to other formats for X-Plane &amp;quot;user_fix.dat&amp;quot; or Garmin &amp;quot;user.wpt&amp;quot;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Codice Ident del waypoint. &lt;/p&gt;&lt;p&gt;E&apos; richiesto un Ident con fino a cinque caratteri per esportare in altri formati per X-Plane &amp;quot;user_fix.dat&amp;quot; o Garmin &amp;quot;user.wpt&amp;quot;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="154"/>
         <source>Check to change visibility for all selected waypoints</source>
-        <translation type="unfinished"></translation>
+        <translation>Spunta per cambiare visibilità di tutti i waypoint selezionati</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="164"/>
         <source>Check to change description for all selected waypoints</source>
-        <translation type="unfinished"></translation>
+        <translation>Spunta per cambiare descrizione di tutti i waypoint selezionati</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="177"/>
         <source>&amp;Region:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Regione:</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="201"/>
         <source>&amp;Elevation or altitude:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Elevazione o altitudine:</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="211"/>
         <source>Imported from file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Importato da file:</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="228"/>
         <source>&amp;Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tipo:</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="238"/>
         <source>Elevation or altitude of this waypoint</source>
-        <translation type="unfinished"></translation>
+        <translation>Elevazione o altitudine di questo waypoint</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="241"/>
         <source> %alt%</source>
-        <translation type="unfinished"></translation>
+        <translation> %alt%</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="267"/>
         <source>Check to change tags for all selected waypoints</source>
-        <translation type="unfinished"></translation>
+        <translation>Spuntare per cambiare tags a tutti i waypoints selezionati</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="277"/>
         <source>Check to change elevation for all selected waypoints</source>
-        <translation type="unfinished"></translation>
+        <translation>Spuntare per cambiare elevazione a tutti i waypoints selezionati</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="297"/>
         <source>&amp;Visible from:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Visibile da:</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="307"/>
         <source>Type which will determine the used icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Il tipo determinerà l&apos;icona usata</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="333"/>
         <source>&amp;Tags:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tags:</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="343"/>
         <source>List of tags. Simple textfield for various purposes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista di tags. Semplice campo testuale per vari scopi.</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="353"/>
         <source>Last Change:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultima modifica:</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="360"/>
         <source>&amp;Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Descrizione:</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="370"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Define the maximum view distance  where this waypoint is shown on the map.&lt;/p&gt;&lt;p&gt;The view distance is shown in the status bar.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Definisce la massima distanza di avvistamento quando questo waypoint è mostrato sulla mappa.&lt;/p&gt;&lt;p&gt;La distanza di visuale è mostrata sulla status bar.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="373"/>
         <source> %dist%</source>
-        <translation type="unfinished"></translation>
+        <translation> %dist%</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="392"/>
         <source>Two letter ICAO region code.
 Required for export to X-Plane &quot;user_fix.dat&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Codice regionale ICAO di due lettere.
+Richiesto per esportare in X-Plane &quot;user_fix.dat&quot;.</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="409"/>
         <source>Check to change name for all selected waypoints</source>
-        <translation type="unfinished"></translation>
+        <translation>Spuntare per cambiare nome a tutti i waypoints selezionati</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.ui" line="428"/>
         <source>&amp;Temporary userpoint. Delete on next startup.</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto utente &amp;temporaneo - Rimosso al prossimo avvio.</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.cpp" line="56"/>
         <source> - Edit Userpoint</source>
-        <translation type="unfinished"></translation>
+        <translation> - Modifica Punto utente</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.cpp" line="59"/>
         <source> - Add Userpoint</source>
-        <translation type="unfinished"></translation>
+        <translation> - Aggiungi Punto utente</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.cpp" line="65"/>
         <source> - Edit Userpoints</source>
-        <translation type="unfinished"></translation>
+        <translation> - Modifica Punto utente</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.cpp" line="256"/>
         <source>Temporary userpoint - will be deleted on next startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto utente temporaneo - verra cancellato al prossimo avvio</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.cpp" line="264"/>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation>-</translation>
     </message>
     <message>
         <location filename="src/userdata/userdatadialog.cpp" line="269"/>
         <source>Not imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Non importato</translation>
     </message>
 </context>
 <context>
@@ -15402,17 +15473,17 @@ Required for export to X-Plane &quot;user_fix.dat&quot;.</source>
     <message>
         <location filename="src/userdata/userdataexportdialog.ui" line="14"/>
         <source>Little Navmap - Export Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Little Navmap - Opzioni di esportazione</translation>
     </message>
     <message>
         <location filename="src/userdata/userdataexportdialog.ui" line="20"/>
         <source>Export &amp;selected userpoints only</source>
-        <translation type="unfinished"></translation>
+        <translation>Esporta solo i punti utente &amp;selezionati</translation>
     </message>
     <message>
         <location filename="src/userdata/userdataexportdialog.ui" line="27"/>
         <source>&amp;Append to an already present file</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Accoda ad un file già esistente</translation>
     </message>
 </context>
 <context>
@@ -15422,133 +15493,133 @@ Required for export to X-Plane &quot;user_fix.dat&quot;.</source>
         <location filename="src/userdata/userdataicons.cpp" line="60"/>
         <source>Airport</source>
         <comment>UserpointType</comment>
-        <translation type="unfinished">Aeroporto</translation>
+        <translation>Aeroporto</translation>
     </message>
     <message>
         <location filename="src/userdata/userdataicons.cpp" line="38"/>
         <location filename="src/userdata/userdataicons.cpp" line="61"/>
         <source>Airstrip</source>
         <comment>UserpointType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pista</translation>
     </message>
     <message>
         <location filename="src/userdata/userdataicons.cpp" line="39"/>
         <location filename="src/userdata/userdataicons.cpp" line="62"/>
         <source>Bookmark</source>
         <comment>UserpointType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Segnalibro</translation>
     </message>
     <message>
         <location filename="src/userdata/userdataicons.cpp" line="40"/>
         <location filename="src/userdata/userdataicons.cpp" line="63"/>
         <source>Cabin</source>
         <comment>UserpointType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cabina</translation>
     </message>
     <message>
         <location filename="src/userdata/userdataicons.cpp" line="41"/>
         <location filename="src/userdata/userdataicons.cpp" line="64"/>
         <source>Closed</source>
         <comment>UserpointType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chiuso</translation>
     </message>
     <message>
         <location filename="src/userdata/userdataicons.cpp" line="42"/>
         <location filename="src/userdata/userdataicons.cpp" line="65"/>
         <source>Error</source>
         <comment>UserpointType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Errore</translation>
     </message>
     <message>
         <location filename="src/userdata/userdataicons.cpp" line="43"/>
         <location filename="src/userdata/userdataicons.cpp" line="66"/>
         <source>Flag</source>
         <comment>UserpointType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bandiera</translation>
     </message>
     <message>
         <location filename="src/userdata/userdataicons.cpp" line="44"/>
         <location filename="src/userdata/userdataicons.cpp" line="67"/>
         <source>Helipad</source>
         <comment>UserpointType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eliporto</translation>
     </message>
     <message>
         <location filename="src/userdata/userdataicons.cpp" line="45"/>
         <location filename="src/userdata/userdataicons.cpp" line="68"/>
         <source>Location</source>
         <comment>UserpointType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Posizione</translation>
     </message>
     <message>
         <location filename="src/userdata/userdataicons.cpp" line="46"/>
         <location filename="src/userdata/userdataicons.cpp" line="69"/>
         <source>Logbook</source>
         <comment>UserpointType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Registro</translation>
     </message>
     <message>
         <location filename="src/userdata/userdataicons.cpp" line="47"/>
         <location filename="src/userdata/userdataicons.cpp" line="70"/>
         <source>Marker</source>
         <comment>UserpointType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Marcatore</translation>
     </message>
     <message>
         <location filename="src/userdata/userdataicons.cpp" line="48"/>
         <location filename="src/userdata/userdataicons.cpp" line="71"/>
         <source>Mountain</source>
         <comment>UserpointType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Montagna</translation>
     </message>
     <message>
         <location filename="src/userdata/userdataicons.cpp" line="49"/>
         <location filename="src/userdata/userdataicons.cpp" line="72"/>
         <source>Obstacle</source>
         <comment>UserpointType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ostacolo</translation>
     </message>
     <message>
         <location filename="src/userdata/userdataicons.cpp" line="50"/>
         <location filename="src/userdata/userdataicons.cpp" line="73"/>
         <source>Pin</source>
         <comment>UserpointType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pin</translation>
     </message>
     <message>
         <location filename="src/userdata/userdataicons.cpp" line="51"/>
         <location filename="src/userdata/userdataicons.cpp" line="74"/>
         <source>POI</source>
         <comment>UserpointType</comment>
-        <translation type="unfinished"></translation>
+        <translation>POI</translation>
     </message>
     <message>
         <location filename="src/userdata/userdataicons.cpp" line="52"/>
         <location filename="src/userdata/userdataicons.cpp" line="75"/>
         <source>Seaport</source>
         <comment>UserpointType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Idroscalo</translation>
     </message>
     <message>
         <location filename="src/userdata/userdataicons.cpp" line="53"/>
         <location filename="src/userdata/userdataicons.cpp" line="76"/>
         <source>Unknown</source>
         <comment>UserpointType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sconosciuto</translation>
     </message>
     <message>
         <location filename="src/userdata/userdataicons.cpp" line="54"/>
         <location filename="src/userdata/userdataicons.cpp" line="77"/>
         <source>VRP</source>
         <comment>UserpointType</comment>
-        <translation type="unfinished"></translation>
+        <translation>VRP</translation>
     </message>
     <message>
         <location filename="src/userdata/userdataicons.cpp" line="55"/>
         <location filename="src/userdata/userdataicons.cpp" line="78"/>
         <source>Waypoint</source>
         <comment>UserpointType</comment>
-        <translation type="unfinished">Waypoint</translation>
+        <translation>Waypoint</translation>
     </message>
 </context>
 <context>
@@ -15557,61 +15628,63 @@ Required for export to X-Plane &quot;user_fix.dat&quot;.</source>
         <location filename="src/search/userdatasearch.cpp" line="64"/>
         <location filename="src/search/userdatasearch.cpp" line="72"/>
         <source>Type</source>
-        <translation type="unfinished">Tipo</translation>
+        <translation>Tipo</translation>
     </message>
     <message>
         <location filename="src/search/userdatasearch.cpp" line="73"/>
         <source>Last Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultima Modifica</translation>
     </message>
     <message>
         <location filename="src/search/userdatasearch.cpp" line="74"/>
         <source>Ident</source>
-        <translation type="unfinished">Ident</translation>
+        <translation>Ident</translation>
     </message>
     <message>
         <location filename="src/search/userdatasearch.cpp" line="75"/>
         <source>Region</source>
-        <translation type="unfinished">Regione</translation>
+        <translation>Regione</translation>
     </message>
     <message>
         <location filename="src/search/userdatasearch.cpp" line="76"/>
         <source>Name</source>
-        <translation type="unfinished">Nome</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <location filename="src/search/userdatasearch.cpp" line="77"/>
         <source>Tags</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/search/userdatasearch.cpp" line="78"/>
         <source>Description</source>
-        <translation type="unfinished">Descrizione</translation>
+        <translation>Descrizione</translation>
     </message>
     <message>
         <location filename="src/search/userdatasearch.cpp" line="81"/>
         <source>Visible from
 %dist%</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibile da
+%dist%</translation>
     </message>
     <message>
         <location filename="src/search/userdatasearch.cpp" line="82"/>
         <source>Elevation
 %alt%</source>
-        <translation type="unfinished">Elevazione
+        <translation>Elevazione
 %alt%</translation>
     </message>
     <message>
         <location filename="src/search/userdatasearch.cpp" line="83"/>
         <source>Imported
 from File</source>
-        <translation type="unfinished"></translation>
+        <translation>Importato
+da File</translation>
     </message>
     <message>
         <location filename="src/search/userdatasearch.cpp" line="118"/>
         <source>%1 overriding all other search options.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ignora tutte le altre opzioni di ricerca.</translation>
     </message>
 </context>
 <context>
